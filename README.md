@@ -1,0 +1,19 @@
+# Install
+
+You can install anywhere.
+
+# Bash
+
+set alias to `bashrc`
+
+for example:
+
+	$ alias git-push="sh ${HOME}/plugins/git-push-remote-switch.sh
+
+Then you got some information like this.
+
+![git-push](https://lh3.googleusercontent.com/RnyzdixRSDNYPi19degD4HegA19EsT_moqJ8ilk289PtBeWuNtQSuzKOoXL6BnQeH51feeUKIVb19b85UNIGFISboy1FpW6TYunhLO5SuA9vD4KmfJk3VOem9VkqNZNQbhk3FMX6srByIlx2hMNSje2SE_Y4AOMYMarWoCdZ5cZZg2bZU9CXfkV0fb5XkvfTpk9dNdk3EFJhW1W-WjRm6IPNhh4r7I2ojjrHcrvLicrfdfyWgln9cAeApAoJVTfFyIUMedSUqm5gaG1DG4WRlbuMWhhZhw-VQlrj08a1aKJticdyCq-FlJHJJKhQkNtsBS9K4ZeENc_wIFA-42G_9UC82vPZrHBrFbJDm6ifMLKzDhh99fLgDEiY2tu30WXnuPNgNVSWId_3_hmq6chFEYKWkKc7duldGrimcd59cBLFqOOgzYT9FgS5DTbXnf7pid-P6LPsvTuxNMNm9GZ43m3ZdFBimgP-O8UwydOe1oSUcDGG_zc6nG6BtB09_FWGVH87oMQ55mklSRFzEXdGH_qicvs6zC9sz-epdSMF5rinLmZKjmwaV4fU19wdwhycrqu6=w1342-h268-no)
+
+> in your repository
+
+That's all.
